@@ -3,8 +3,6 @@
 .github
 .venv
 cache
-data
-examples
 .dockerignore
 .gitattributes
 .gitignore

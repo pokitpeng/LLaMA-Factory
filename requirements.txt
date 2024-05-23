@@ -1,9 +1,10 @@
-transformers>=4.37.2
-datasets>=2.14.3
-accelerate>=0.27.2
-peft>=0.10.0
-trl>=0.8.1
-gradio>=4.0.0
+transformers>=4.41.0
+datasets>=2.19.1
+accelerate>=0.30.1
+peft>=0.11.1
+trl>=0.8.6
+gradio>=4.10.0
+torch>=2.2.0
 scipy
 einops
 sentencepiece
@@ -16,3 +17,9 @@ matplotlib>=3.7.0
 fire
 packaging
 pyyaml
+deepspeed>=0.14.0
+bitsandbytes>=0.43.1
+vllm>=0.4.2
+flash-attn>=2.5.8
+modelscope
+nvitop
